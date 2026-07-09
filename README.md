@@ -1,7 +1,3 @@
-Below is a **professional GitHub README.md** you can use for your project. It is structured the way **DevOps recruiters expect** when reviewing repositories.
-
-You can copy this directly into `README.md`.
-
 ---
 
 # DevOps Infrastructure Project
