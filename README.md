@@ -1,5 +1,3 @@
----
-
 # DevOps Infrastructure Project
 
 Docker • Kubernetes • Terraform • Minikube
